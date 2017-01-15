@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Namephonelist</string>
+
+    <string-array name="Name">
+        <item>name1</item>
+        <item>name2</item>
+        <item>name3</item>
+        <item>name4</item>
+        <item>name5</item>
+        <item>name6</item>
+        <item>name7</item>
+        <item>name8</item>
+        <item>name9</item>
+        <item>name10</item>
+    </string-array>
+
+    <string-array name="phonenumbers">
+        <item>phonenumber1</item>
+        <item>phonenumber2</item>
+        <item>phonenumber3</item>
+        <item>phonenumber4</item>
+        <item>phonenumber5</item>
+        <item>phonenumber6</item>
+        <item>phonenumber7</item>
+        <item>phonenumber8</item>
+        <item>phonenumber9</item>
+        <item>phonenumber10</item>
+    </string-array>
+
+
+</resources>
